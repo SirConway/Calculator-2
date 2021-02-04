@@ -1,0 +1,30 @@
+table.calcButtons {
+  margin: auto auto auto auto;
+  border-style: solid;
+  border-width: thick;
+}
+
+#runningTotal, #display {
+  text-align: right;
+  font-family: monospace;
+  color: rgb(200,200,200);
+}
+
+#totalHeader {
+  text-align: left;
+  font-family: monospace;
+  text-transform: lowercase;
+  color: rgb(200,200,200);
+}
+
+#calcHeader {
+text-align: center;
+font-family: monospace;
+text-transform: uppercase;
+background-color: rgb(70,90,70);
+color: rgb(200,200,200);
+}
+
+body {
+  background-color: rgb(80,80,80);
+}
